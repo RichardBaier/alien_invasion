@@ -91,7 +91,7 @@ class AlienInvasion:
             self.bullets.add(new_bullet)
 
     def _check_keydown_events(self, event):
-        #Respond to keypresses
+        #Respond to key presses
         if event.key == pygame.K_d:
             self.ship.moving_right = True
         elif event.key == pygame.K_a:
