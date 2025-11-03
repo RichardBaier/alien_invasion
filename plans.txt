@@ -1,0 +1,5 @@
+Next will be adding a score system
+
+I need to add icons to indicate the players lives
+
+Add a high score system
